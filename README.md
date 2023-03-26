@@ -1,5 +1,8 @@
 # OOP Forum Task Week 6
 
+## * Name: Tirza Gabriella
+## * NIM: 2602109870
+
 ## Java certificate Great Learning
 
 <img src="https://github.com/tirzagabriella/JavaCertificate/blob/main/GreatLearning_certification.jpeg">
